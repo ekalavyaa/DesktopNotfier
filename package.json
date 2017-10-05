@@ -1,0 +1,21 @@
+{
+  "name": "desktopNotifier",
+  "version": "1.0.0",
+  "description": "to notifyme bitcoin alerts",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "beepbeep": "^1.2.1",
+    "beeper": "^1.1.1",
+    "exec": "^0.2.1",
+    "express": "^4.15.4",
+    "lodash": "^4.17.4",
+    "node-gyp": "^3.6.2",
+    "node-notifier": "^5.1.2",
+    "node-schedule": "^1.2.5",
+    "rebuild": "^0.1.2",
+    "request": "^2.82.0",
+    "request-promise": "^4.2.1",
+    "ttys": "^0.0.3"
+  }
+}
